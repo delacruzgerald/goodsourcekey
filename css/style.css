@@ -317,7 +317,7 @@ body{
 
 /*** Footer ***/
 .footer {
-    background: linear-gradient(rgba(0, 0, 0, .9), rgba(0, 0, 0, .9)), url(../img/i2.png) center center no-repeat;
+    background: url(../img/ft-2.png) center center no-repeat;
     background-size: cover;
 }
 
